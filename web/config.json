@@ -1,0 +1,8 @@
+{
+  "db":{
+    "user":"testuser",
+    "pass":"testpass",
+    "name":"testname",
+    "char":"UTF8"
+  }
+}
