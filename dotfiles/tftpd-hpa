@@ -1,7 +1,0 @@
-# /etc/default/tftpd-hpa
-
-TFTP_USERNAME="tftp"
-TFTP_ADDRESS="10.0.0.254:69"
-TFTP_OPTIONS="-l -s /var/lib/tftpboot"
-RUN_DAEMON="yes"
-
